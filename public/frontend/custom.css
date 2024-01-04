@@ -1,0 +1,54 @@
+/* If the screen size is 600px wide or less, hide the element */
+
+
+.slider_main{
+    width: auto;
+    height: auto;
+    background-color: #060401;
+    padding-bottom: 100px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .elementor-1381 {
+        display: block;
+        margin-left: auto;
+        left: auto;
+        width: 100%;
+        top: 0%;
+        margin-top: -130px;
+        padding-top: 100px;
+
+      }
+
+
+
+}
+@media only screen and (max-width: 765px) {
+    .mobile_container {
+      display: block;
+      margin-left: auto;
+      left: auto;
+      width: 100%;
+      margin-bottom: 50px;
+    }
+
+
+    .slider_background {
+        display: block;
+        margin-left: auto;
+        left: auto;
+        width: 100%;
+        top: 0%;
+        padding-top: 10px;
+
+      }
+
+      .elementor{
+        top: 0;
+      }
+
+
+
+
+
+  }

@@ -1,0 +1,77 @@
+.elementor-2967 .elementor-element.elementor-element-5bab4d29 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-2967 .elementor-element.elementor-element-5bab4d29:not(.elementor-motion-effects-element-type-background), .elementor-2967 .elementor-element.elementor-element-5bab4d29 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;background-image:url("http://mattacena.com/wp-content/uploads/2023/12/Progetto-senza-titolo.png");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-2967 .elementor-element.elementor-element-5bab4d29 > .elementor-background-overlay{background-color:#FFFFFF00;opacity:0.82;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2967 .elementor-element.elementor-element-5bab4d29{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:120px 0px 120px 0px;}.elementor-2967 .elementor-element.elementor-element-77d6fe58 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 15px 0px 15px;}.elementor-2967 .elementor-element.elementor-element-66b6d026{text-align:center;}.elementor-2967 .elementor-element.elementor-element-7400abe4{text-align:center;}.elementor-2967 .elementor-element.elementor-element-7400abe4 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 300px 0px 300px;}.elementor-2967 .elementor-element.elementor-element-6edcd04c > .elementor-widget-container{margin:40px 0px 0px 0px;padding:0px 0px 0px 0px;background-color:#FF000000;}@media(max-width:1199px){.elementor-2967 .elementor-element.elementor-element-77d6fe58 > .elementor-element-populated{padding:0px 15px 0px 15px;}.elementor-2967 .elementor-element.elementor-element-7400abe4 > .elementor-widget-container{padding:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-2967 .elementor-element.elementor-element-77d6fe58{width:100%;}.elementor-2967 .elementor-element.elementor-element-66b6d026 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 15px 0px 15px;}}/* Start custom CSS for shortcode, class: .elementor-element-6edcd04c */#nd_rst_component_container #nd_rst_occasion_cont h3 { 
+	margin:0px; padding:0px; 
+}
+
+#nd_rst_guests_section h3 { 
+	margin:0px; padding:0px; 
+}
+
+#nd_rst_legend_section p {
+    line-height: 2em !important;
+}
+
+#nd_rst_guests_legend_section { 
+	margin-top: 0px !important; background-color:var(--e-global-color-223f520) !important; background:var(--e-global-color-223f520) !important;
+}
+
+#nd_rst_datepicker_dev .ui-datepicker td {
+    padding: 21.3px 8px !important;
+}
+
+#nd_rst_booking_step_datas_form input[type="text"], #nd_rst_booking_step_datas_form textarea {
+    outline: 0;
+}
+
+#nd_rst_checkout_form_name_container h3, #nd_rst_checkout_form_name_container p { 
+	margin:0px; 
+}
+
+#nd_rst_thanks_step_resume_table p {
+    margin: 0px;
+}
+
+#nd_rst_steps_container { 
+	background: transparent !important; 
+}
+
+#nd_rst_component_container { 
+	border-width: 0px !important; 
+}
+
+#nd_rst_rest_guests_legend_section { 
+	border-left: 15px solid #fff0 !important;
+    border-right: 15px solid #fff0 !important;
+}
+
+#nd_rst_cal_occa_section { 
+	border-left: 15px solid #fff0 !important;
+    border-right: 15px solid #fff0 !important; 
+}
+    
+#nd_rst_rest_guests_legend_section { 
+	width: 49% !important; 
+	margin-right: 1%; 
+}
+
+#nd_rst_cal_occa_section {  
+	width: 49% !important; 
+	margin-left: 1%; 
+}
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+ 
+  #nd_rst_rest_guests_legend_section { 
+  	width:100% !important; 
+  	border-width: 0px !important;
+    margin: 0px !important;
+    padding: 0px !important;  
+  }
+  
+  #nd_rst_cal_occa_section { 
+  	width:100% !important; 
+  	border-width: 0px !important;
+    margin: 0px !important;
+    padding: 0px !important; 
+  }
+ 
+}/* End custom CSS */
